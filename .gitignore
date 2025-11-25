@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.$py.class
+
+# VSCode settings
+.vscode/
+
+# Data / checkpoints / large artifacts
+*.npz
+*.npy
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.tar
+*.zip
+*.log
+
+# Results / temp
+results/
+outputs/
+runs/
