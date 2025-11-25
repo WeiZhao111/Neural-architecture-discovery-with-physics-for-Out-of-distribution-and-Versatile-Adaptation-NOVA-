@@ -128,9 +128,9 @@ If you use NOVA for research, please cite:
 
 ## 📩 Contact
 
-Dr. Wei Zhao  
-Centre for Frontier AI Research (CFAR)
-Agency for Science, Technology and Research (A*STAR)
-Singapore
-Email: weiz@a-star.edu.sg
+- Dr. Wei Zhao  
+- Centre for Frontier AI Research (CFAR)
+- Agency for Science, Technology and Research (A*STAR)
+- Singapore
+- Email: weiz@a-star.edu.sg
 
