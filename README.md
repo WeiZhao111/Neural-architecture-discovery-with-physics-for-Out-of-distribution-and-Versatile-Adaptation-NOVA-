@@ -128,7 +128,9 @@ If you use NOVA for research, please cite:
 
 ## 📩 Contact
 
-Wei Zhao  
-A*STAR, Institute of High Performance Computing  
+Dr. Wei Zhao  
+Centre for Frontier AI Research (CFAR)
+Agency for Science, Technology and Research (A*STAR)
+Singapore
 Email: weiz@a-star.edu.sg
 
