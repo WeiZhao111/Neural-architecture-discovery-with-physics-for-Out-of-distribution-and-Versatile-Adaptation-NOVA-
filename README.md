@@ -118,7 +118,7 @@ If you use NOVA for research, please cite:
 
 ```
 @article{zhao2025nova,
-  title={Neural Architecture Discovery with Physics for Out-of-Distribution and Versatile Adaptation},
+  title={Out-of-Distribution Generalization for Neural Physics Solvers},
   author={Zhao, Wei and others},
   year={2025}
 }
